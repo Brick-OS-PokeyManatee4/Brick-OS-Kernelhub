@@ -9,6 +9,11 @@
 <form method="get" action="https://github.com/Brick-OS-PokeyManatee4/Brick-OS-Kernelhub/releases/download/1.0/NormalModdedKernel.elf">
    <button type="submit">Download Normal Modded Kernel</button>
 </form>
+   <h9>Debug Kernel</h9>
+   <h10>Warning: For Advanced It Pros Only!</h10>
+<form method="get" action="https://github.com/Brick-OS-PokeyManatee4/Brick-OS-Kernelhub/releases/download/1.0/BrickDebugKernel.elf">
+   <button type="submit">Download Normal Modded Kernel</button>
+</form>
 <h1>Brick OS 1.1 Kernels</h1>
 <h9>Oh No, There Are No Kernels For This Version Because It Has Not Come Out Yet!</h9>
 <h1>Brick OS 1.2 Kernels</h1>
