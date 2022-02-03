@@ -34,4 +34,4 @@
 <h9>Oh No, There Are No Kernels For This Version Because It Has Not Come Out Yet!</h9>
 <h1>Brick OS 2.0 Kernels</h1>
 <h9>Oh No, There Are No Kernels For This Version Because It Has Not Come Out Yet!</h9>
-<h10>End Of Page For Brick OS Kernel Hub!</h10>
+End Of Page For Brick OS Kernel Hub!
