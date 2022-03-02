@@ -5,18 +5,18 @@
 <h1>Brick OS 1.0 Kernels</h1>
    <br>
 <h9>Normal Kernel</h9>
-<form method="get" action="https://github.com/Brick-OS-PokeyManatee4/Brick-OS-Kernelhub/releases/download/1.0/NormalKernel.elf">
+<form method="get" action="https://github.com/Brick-OS-PokeyManatee4/Brick-OS-Kernelhub/releases/download/1.0new/NormalKernel.elf">
    <button type="submit">Download Normal Kernel</button>
 </form>
 <br>
 <h9>Normal Modded Kernel</h9>
-<form method="get" action="https://github.com/Brick-OS-PokeyManatee4/Brick-OS-Kernelhub/releases/download/1.0/NormalModdedKernel.elf">
+<form method="get" action="https://github.com/Brick-OS-PokeyManatee4/Brick-OS-Kernelhub/releases/download/1.0new/NormalModdedKernel.elf">
    <button type="submit">Download Normal Modded Kernel</button>
 </form>
 <br>
    <h9>Debug Kernel</h9>
    <h10>Warning: For Advanced It Pros Only!</h10>
-<form method="get" action="https://github.com/Brick-OS-PokeyManatee4/Brick-OS-Kernelhub/releases/download/1.0/BrickDebugKernel.elf">
+<form method="get" action="https://github.com/Brick-OS-PokeyManatee4/Brick-OS-Kernelhub/releases/download/1.0new/BrickDebugKernel.elf">
    <button type="submit">Download Debug Kernel</button>
 </form>
 <br>
